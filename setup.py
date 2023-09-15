@@ -9,7 +9,7 @@ setup(
   author = 'Tyler Hirsch',                   # Type in your name
   author_email = 'tylerhirschbiz@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/tylerhirsch62/developer-basics',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/tylerhirsch62/developer-basics/archive/refs/tags/v_0.01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/tylerhirsch62/developer-basics/archive/refs/tags/v_0.02.tar.gz',    # I explain this later on
   keywords = ['developer', 'basics', 'developer_basics'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
       ],
@@ -22,5 +22,9 @@ setup(
     'Programming Language :: Python :: 3.4',
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',
+    'Programming Language :: Python :: 3.7',
+    'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
   ],
 )
