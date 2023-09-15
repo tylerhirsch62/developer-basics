@@ -12,7 +12,7 @@ setup(
   download_url = 'https://github.com/tylerhirsch62/developer-basics/archive/refs/tags/v_0.01.tar.gz',    # I explain this later on
   keywords = ['developer', 'basics', 'developer_basics'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
-          'math',
+          'tqdm',
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
